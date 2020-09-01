@@ -1,0 +1,22 @@
+{
+  "name": "asynchronous-js-callbacks-promises-async-await",
+  "version": "1.0.0",
+  "description": "async",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psambalkar/Asynchronous-JS-Callbacks-Promises-Async-await.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psambalkar/Asynchronous-JS-Callbacks-Promises-Async-await/issues"
+  },
+  "homepage": "https://github.com/psambalkar/Asynchronous-JS-Callbacks-Promises-Async-await#readme",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  }
+}
